@@ -1,0 +1,4 @@
+cohere
+speechrecognition
+pyqt5
+pyttsx3
